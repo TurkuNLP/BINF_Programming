@@ -1,6 +1,6 @@
 # Bioinformatics, Programming Course
 
-This repository contains the course material and exercises of "Bioinformatics, Programming Course" lectured in the academic year 2018-2019.
+This repository contains the course material and exercises of "Bioinformatics, Programming Course" lectured in the academic year 2019-2020.
 
 ## Course content
 
